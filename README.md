@@ -1,4 +1,4 @@
 # vickey-demo
 this is  a my first repository
 <br>
-Author-waqar abbas
+Author-waqar vickey
